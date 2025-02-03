@@ -7,7 +7,7 @@
 <p align="center">
   <img src="Images/Сорокин_Алексей_Борисович.jpg" alt="Сорокин Алексей Борисович" width="394" height="569">
   <br>
-  <span style="font-size: 6px;"><strong>Рисунок 1 - Сорокин Алексей Борисович</strong></span>
+  <small><strong>Рисунок 1 - Сорокин Алексей Борисович</strong></small>
 </p>
 
 Практические занятия курса провёл
