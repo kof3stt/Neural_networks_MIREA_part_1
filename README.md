@@ -7,7 +7,7 @@
 <p align="center">
   <img src="Images/Сорокин_Алексей_Борисович.jpg" alt="Сорокин Алексей Борисович" width="394" height="569">
   <br>
-  <span style="font-size: 10px;"><strong>Рисунок 1 - Сорокин Алексей Борисович</strong></span>
+  <sub><strong>Рисунок 1 - Сорокин Алексей Борисович</strong></sub>
 </p>
 
 
