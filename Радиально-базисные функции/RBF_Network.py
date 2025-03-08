@@ -154,7 +154,7 @@ class RBFNetwork:
 
 if __name__ == "__main__":
     dataset_handler = DatasetHandler()
-    dataset_handler.load_data(r"C:\projects\MIREA\Проектирование и обучение нейронных сетей Ч.1\banana_quality.csv")
+    dataset_handler.load_data(r".\banana_quality.csv")
     dataset_handler.split_data(test_size=0.2)
     train_data = dataset_handler.train_data
     test_data = dataset_handler.test_data
